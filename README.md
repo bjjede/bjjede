@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bjjede
-- 👀 I’m interested in Python, SQL an APEX
+- 👀 I’m interested in Python, SQL & APEX
 
 <!---
 bjjede/bjjede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
